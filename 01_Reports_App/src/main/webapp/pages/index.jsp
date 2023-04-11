@@ -122,7 +122,7 @@
     </div>
 
     <div class="container-flued p-3 m-3">
-        <h5>Export : <a href="">Excle</a> <a href="">Pdf</a> </h5>
+        <h5>Export : <a href="excel">Excle</a> <a href="pdf">Pdf</a> </h5>
     </div>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>   
